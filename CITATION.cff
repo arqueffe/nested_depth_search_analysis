@@ -17,6 +17,10 @@ authors:
     family-names: Cazenave
     email: tristan.cazenave@lamsade.dauphine.fr
     affiliation: LAMSADE Dauphine
+  - given-names: Swann
+    family-names: Legras
+    email: swann.legras@gmail.com
+    affiliation: NukkAI
 repository-code: 'https://github.com/arqueffe/nested_depth_search_analysis'
 abstract: >-
   Nested Monte Carlo Search (NMCS) has numerous
